@@ -1,0 +1,9 @@
+small=False
+overlap_dataset=False
+start_end=(1, 30)
+no_of_people=2500
+affiliated=(None, 'affiliated_to', 'has_student', 'University')
+study=('def', 'studies', 'studied_by', 'Subject')
+course=('inv', 'take_course', 'participant', 'Course')
+employeed=('both', 'employeed_at', 'has_employeee', 'University')
+isTutor=('def', 'is_tutor', 'has_tutor', 'Course')

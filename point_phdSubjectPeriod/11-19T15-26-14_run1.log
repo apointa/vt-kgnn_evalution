@@ -1,0 +1,145 @@
+DEBUG:root:Loss: 2.9175806045532227
+DEBUG:root:Loss: 2.676668167114258
+....
+DEBUG:root:Loss: 1.5123291015625
+DEBUG:root:Loss: 1.48765230178833
+INFO:root:Valid-Epoch 499
+INFO:root:MMR: 0.16993818653360415
+INFO:root:Rank: 444.3805, Rank tail: 354.573, Rank head: 534.188
+INFO:root:Hit1: 0.083, Hit1 tail: 0.156, Hit1 head: 0.01
+INFO:root:Hit3: 0.2025, Hit3 tail: 0.391, Hit3 head: 0.014
+INFO:root:Hit10: 0.3635, Hit10 tail: 0.699, Hit10 head: 0.028
+INFO:root:New Best!
+DEBUG:root:Loss: 1.509033203125
+DEBUG:root:Loss: 1.4900834560394287
+...
+DEBUG:root:Loss: 1.0007752180099487
+DEBUG:root:Loss: 1.0241835117340088
+INFO:root:Valid-Epoch 999
+INFO:root:MMR: 0.29844034584097884
+INFO:root:Rank: 375.246, Rank tail: 358.678, Rank head: 391.814
+INFO:root:Hit1: 0.22150000000000003, Hit1 tail: 0.273, Hit1 head: 0.17
+INFO:root:Hit3: 0.34199999999999997, Hit3 tail: 0.502, Hit3 head: 0.182
+INFO:root:Hit10: 0.46099999999999997, Hit10 tail: 0.729, Hit10 head: 0.193
+INFO:root:New Best!
+DEBUG:root:Loss: 0.9900637865066528
+DEBUG:root:Loss: 0.9921663999557495
+...
+DEBUG:root:Loss: 0.9645599126815796
+DEBUG:root:Loss: 0.9654475450515747
+INFO:root:Valid-Epoch 1499
+INFO:root:MMR: 0.3127734467256828
+INFO:root:Rank: 341.2725, Rank tail: 319.294, Rank head: 363.251
+INFO:root:Hit1: 0.23500000000000001, Hit1 tail: 0.277, Hit1 head: 0.193
+INFO:root:Hit3: 0.347, Hit3 tail: 0.487, Hit3 head: 0.207
+INFO:root:Hit10: 0.481, Hit10 tail: 0.738, Hit10 head: 0.224
+INFO:root:New Best!
+DEBUG:root:Loss: 0.9399853944778442
+DEBUG:root:Loss: 0.9839594960212708
+...
+DEBUG:root:Loss: 0.961241602897644
+DEBUG:root:Loss: 0.9505235552787781
+INFO:root:Valid-Epoch 1999
+INFO:root:MMR: 0.3172290926346888
+INFO:root:Rank: 377.856, Rank tail: 365.094, Rank head: 390.618
+INFO:root:Hit1: 0.245, Hit1 tail: 0.3, Hit1 head: 0.19
+INFO:root:Hit3: 0.35450000000000004, Hit3 tail: 0.506, Hit3 head: 0.203
+INFO:root:Hit10: 0.475, Hit10 tail: 0.738, Hit10 head: 0.212
+INFO:root:New Best!
+DEBUG:root:Loss: 0.9520460963249207
+DEBUG:root:Loss: 0.9513422250747681
+...
+DEBUG:root:Loss: 0.9614102244377136
+DEBUG:root:Loss: 0.9547241926193237
+INFO:root:Valid-Epoch 2499
+INFO:root:MMR: 0.31534446930397764
+INFO:root:Rank: 334.57849999999996, Rank tail: 304.149, Rank head: 365.008
+INFO:root:Hit1: 0.23199999999999998, Hit1 tail: 0.302, Hit1 head: 0.162
+INFO:root:Hit3: 0.362, Hit3 tail: 0.52, Hit3 head: 0.204
+INFO:root:Hit10: 0.4845, Hit10 tail: 0.734, Hit10 head: 0.235
+DEBUG:root:Loss: 0.9524964690208435
+DEBUG:root:Loss: 0.9572732448577881
+...
+DEBUG:root:Loss: 0.9612187147140503
+DEBUG:root:Loss: 0.9571613073348999
+INFO:root:Valid-Epoch 2999
+INFO:root:MMR: 0.3146942653652108
+INFO:root:Rank: 339.823, Rank tail: 312.105, Rank head: 367.541
+INFO:root:Hit1: 0.237, Hit1 tail: 0.288, Hit1 head: 0.186
+INFO:root:Hit3: 0.359, Hit3 tail: 0.513, Hit3 head: 0.205
+INFO:root:Hit10: 0.484, Hit10 tail: 0.744, Hit10 head: 0.224
+DEBUG:root:Loss: 0.9357984662055969
+DEBUG:root:Loss: 0.9508781433105469
+...
+DEBUG:root:Loss: 0.9529852271080017
+DEBUG:root:Loss: 0.9583268165588379
+INFO:root:Valid-Epoch 3499
+INFO:root:MMR: 0.32363943347853513
+INFO:root:Rank: 341.93399999999997, Rank tail: 305.324, Rank head: 378.544
+INFO:root:Hit1: 0.247, Hit1 tail: 0.298, Hit1 head: 0.196
+INFO:root:Hit3: 0.3715, Hit3 tail: 0.526, Hit3 head: 0.217
+INFO:root:Hit10: 0.486, Hit10 tail: 0.738, Hit10 head: 0.234
+INFO:root:New Best!
+DEBUG:root:Loss: 0.9465168714523315
+DEBUG:root:Loss: 0.9435157179832458
+...
+DEBUG:root:Loss: 0.939397931098938
+DEBUG:root:Loss: 0.9517606496810913
+INFO:root:Valid-Epoch 3999
+INFO:root:MMR: 0.314870199660773
+INFO:root:Rank: 345.70050000000003, Rank tail: 329.13, Rank head: 362.271
+INFO:root:Hit1: 0.24, Hit1 tail: 0.286, Hit1 head: 0.194
+INFO:root:Hit3: 0.3575, Hit3 tail: 0.502, Hit3 head: 0.213
+INFO:root:Hit10: 0.4825, Hit10 tail: 0.737, Hit10 head: 0.228
+DEBUG:root:Loss: 0.9586371183395386
+DEBUG:root:Loss: 0.9444810152053833
+...
+DEBUG:root:Loss: 0.9479504227638245
+DEBUG:root:Loss: 0.9522688388824463
+INFO:root:Valid-Epoch 4499
+INFO:root:MMR: 0.321914419680183
+INFO:root:Rank: 341.256, Rank tail: 313.673, Rank head: 368.839
+INFO:root:Hit1: 0.243, Hit1 tail: 0.291, Hit1 head: 0.195
+INFO:root:Hit3: 0.365, Hit3 tail: 0.505, Hit3 head: 0.225
+INFO:root:Hit10: 0.49, Hit10 tail: 0.734, Hit10 head: 0.246
+DEBUG:root:Loss: 0.9473813772201538
+DEBUG:root:Loss: 0.9701144099235535
+...
+DEBUG:root:Loss: 0.9493945837020874
+DEBUG:root:Loss: 0.9609332084655762
+INFO:root:Valid-Epoch 4999
+INFO:root:MMR: 0.30503035109992016
+INFO:root:Rank: 354.25350000000003, Rank tail: 324.299, Rank head: 384.208
+INFO:root:Hit1: 0.22049999999999997, Hit1 tail: 0.286, Hit1 head: 0.155
+INFO:root:Hit3: 0.3585, Hit3 tail: 0.513, Hit3 head: 0.204
+INFO:root:Hit10: 0.483, Hit10 tail: 0.738, Hit10 head: 0.228
+DEBUG:root:Loss: 0.9355264902114868
+DEBUG:root:Loss: 0.9459149241447449
+...
+DEBUG:root:Loss: 0.9498673677444458
+DEBUG:root:Loss: 0.959968090057373
+INFO:root:Valid-Epoch 5499
+INFO:root:MMR: 0.330697587976998
+INFO:root:Rank: 342.16200000000003, Rank tail: 311.284, Rank head: 373.04
+INFO:root:Hit1: 0.2565, Hit1 tail: 0.31, Hit1 head: 0.203
+INFO:root:Hit3: 0.3765, Hit3 tail: 0.534, Hit3 head: 0.219
+INFO:root:Hit10: 0.492, Hit10 tail: 0.742, Hit10 head: 0.242
+INFO:root:New Best!
+DEBUG:root:Loss: 0.9489330053329468
+DEBUG:root:Loss: 0.9521979689598083
+...
+DEBUG:root:Loss: 0.9533039331436157
+DEBUG:root:Loss: 0.947619616985321
+INFO:root:Valid-Epoch 5999
+INFO:root:MMR: 0.33327749793581096
+INFO:root:Rank: 326.715, Rank tail: 303.691, Rank head: 349.739
+INFO:root:Hit1: 0.259, Hit1 tail: 0.314, Hit1 head: 0.204
+INFO:root:Hit3: 0.372, Hit3 tail: 0.522, Hit3 head: 0.222
+INFO:root:Hit10: 0.4875, Hit10 tail: 0.737, Hit10 head: 0.238
+INFO:root:New Best!
+INFO:root:TEST: (On best model which was at epoch 5999
+INFO:root:MMR: 0.3389679336425506
+INFO:root:Rank: 319.842, Rank tail: 281.642, Rank head: 358.042
+INFO:root:Hit1: 0.2655, Hit1 tail: 0.326, Hit1 head: 0.205
+INFO:root:Hit3: 0.3765, Hit3 tail: 0.527, Hit3 head: 0.226
+INFO:root:Hit10: 0.497, Hit10 tail: 0.743, Hit10 head: 0.251

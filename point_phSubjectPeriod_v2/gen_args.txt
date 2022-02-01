@@ -1,0 +1,17 @@
+small=False
+start_end=(2000, 2023)
+no_of_people=2500
+strict_study_assgin=True
+all_graduate=True
+phd_prob=1
+phd_strict_sep=True
+phd_periods=3
+gen_known=False
+affiliated=(None, 'affiliated_to', 'has_student', 'University')
+study_city=('def', 'live_in', 'inhabitant', 'City')
+study=('def', 'studies', 'studied_by', 'Subject')
+graduated=(None, 'graduated_in', 'graduate', 'Subject')
+phd=('inv', 'phd_in', 'phd', 'Subject')
+research=('def', 'research_in', 'researched_by', 'Research Area')
+degree=(None, 'has_highest_degree', 'highest_degree_of', 'Degree')
+known=(None, 'knows', 'knows', 'Person')

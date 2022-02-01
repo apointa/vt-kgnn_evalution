@@ -1,0 +1,7 @@
+Person 22		research_in		Logic - ID:39.0	-	Score:2.18
+Person 22		research_in		Semantic Web - ID:24.0	-	Score:1.81
+Person 22		research_in		Machine Learning - ID:7.0	-	Score:1.61
+Person 22		research_in		Computer Science - ID:6.0	-	Score:0.16
+Person 22		research_in		Person 1576 - ID:1601.0	-	Score:-4.64
+Person 22		research_in		New York - ID:26.0	-	Score:-6.49
+Person 22		research_in		Person 723 - ID:748.0	-	Score:-6.91

@@ -1,0 +1,681 @@
+DEBUG:root:Loss of last 10 epochs: 2.3952	 in 7.7323  sec
+DEBUG:root:Loss of last 10 epochs: 1.9727	 in 7.8841  sec
+DEBUG:root:Loss of last 10 epochs: 1.8824	 in 7.8325  sec
+DEBUG:root:Loss of last 10 epochs: 1.8436	 in 7.7978  sec
+DEBUG:root:Loss of last 10 epochs: 1.8213	 in 7.8639  sec
+DEBUG:root:Loss of last 10 epochs: 1.7993	 in 7.9513  sec
+DEBUG:root:Loss of last 10 epochs: 1.7830	 in 7.8297  sec
+DEBUG:root:Loss of last 10 epochs: 1.7676	 in 7.8275  sec
+DEBUG:root:Loss of last 10 epochs: 1.7646	 in 7.8000  sec
+DEBUG:root:Loss of last 10 epochs: 1.7505	 in 7.8322  sec
+DEBUG:root:Loss of last 10 epochs: 1.7485	 in 7.8560  sec
+DEBUG:root:Loss of last 10 epochs: 1.7325	 in 8.0027  sec
+DEBUG:root:Loss of last 10 epochs: 1.7211	 in 8.0905  sec
+DEBUG:root:Loss of last 10 epochs: 1.7016	 in 9.1374  sec
+DEBUG:root:Loss of last 10 epochs: 1.6851	 in 10.0369  sec
+DEBUG:root:Loss of last 10 epochs: 1.6670	 in 10.1331  sec
+DEBUG:root:Loss of last 10 epochs: 1.6471	 in 8.8386  sec
+DEBUG:root:Loss of last 10 epochs: 1.6402	 in 8.5682  sec
+DEBUG:root:Loss of last 10 epochs: 1.6265	 in 8.3421  sec
+DEBUG:root:Loss of last 10 epochs: 1.6038	 in 8.0428  sec
+DEBUG:root:Loss of last 10 epochs: 1.5963	 in 8.4639  sec
+DEBUG:root:Loss of last 10 epochs: 1.5407	 in 9.0471  sec
+DEBUG:root:Loss of last 10 epochs: 1.4947	 in 8.9290  sec
+DEBUG:root:Loss of last 10 epochs: 1.4049	 in 9.3304  sec
+DEBUG:root:Loss of last 10 epochs: 1.3225	 in 8.5684  sec
+DEBUG:root:Loss of last 10 epochs: 1.2367	 in 8.4568  sec
+DEBUG:root:Loss of last 10 epochs: 1.1686	 in 11.0171  sec
+DEBUG:root:Loss of last 10 epochs: 1.1176	 in 10.1370  sec
+DEBUG:root:Loss of last 10 epochs: 1.0778	 in 9.4535  sec
+DEBUG:root:Loss of last 10 epochs: 1.0776	 in 10.0518  sec
+DEBUG:root:Loss of last 10 epochs: 1.0174	 in 8.4614  sec
+DEBUG:root:Loss of last 10 epochs: 1.0058	 in 9.2352  sec
+DEBUG:root:Loss of last 10 epochs: 0.9585	 in 10.5746  sec
+DEBUG:root:Loss of last 10 epochs: 0.9294	 in 8.8182  sec
+DEBUG:root:Loss of last 10 epochs: 0.8175	 in 8.6170  sec
+DEBUG:root:Loss of last 10 epochs: 0.7356	 in 8.4790  sec
+DEBUG:root:Loss of last 10 epochs: 0.7257	 in 8.4476  sec
+DEBUG:root:Loss of last 10 epochs: 0.6653	 in 8.2506  sec
+DEBUG:root:Loss of last 10 epochs: 0.6070	 in 8.3971  sec
+DEBUG:root:Loss of last 10 epochs: 0.6065	 in 9.3072  sec
+DEBUG:root:Loss of last 10 epochs: 0.5409	 in 10.6297  sec
+DEBUG:root:Loss of last 10 epochs: 0.5404	 in 9.3178  sec
+DEBUG:root:Loss of last 10 epochs: 0.5253	 in 9.0680  sec
+DEBUG:root:Loss of last 10 epochs: 0.4973	 in 9.5898  sec
+DEBUG:root:Loss of last 10 epochs: 0.4568	 in 9.3836  sec
+DEBUG:root:Loss of last 10 epochs: 0.4641	 in 9.2575  sec
+DEBUG:root:Loss of last 10 epochs: 0.4544	 in 9.0513  sec
+DEBUG:root:Loss of last 10 epochs: 0.4577	 in 9.5256  sec
+DEBUG:root:Loss of last 10 epochs: 0.4442	 in 9.6848  sec
+DEBUG:root:Loss of last 10 epochs: 0.4542	 in 8.7847  sec
+INFO:root:Valid-Epoch 499
+INFO:root:MMR: 0.4457682751216735
+INFO:root:Rank: 283.1352370689655, Rank tail: 234.97629310344828, Rank head: 331.29418103448273
+INFO:root:Hit1: 0.3760775862068966, Hit1 tail: 0.3890086206896552, Hit1 head: 0.36314655172413796
+INFO:root:Hit3: 0.4956896551724138, Hit3 tail: 0.59375, Hit3 head: 0.39762931034482757
+INFO:root:Hit10: 0.5808189655172413, Hit10 tail: 0.6293103448275862, Hit10 head: 0.5323275862068966
+INFO:root:New Best!
+DEBUG:root:Loss of last 10 epochs: 0.4574	 in 17.5705  sec
+DEBUG:root:Loss of last 10 epochs: 0.4507	 in 8.7163  sec
+DEBUG:root:Loss of last 10 epochs: 0.4598	 in 8.5763  sec
+DEBUG:root:Loss of last 10 epochs: 0.4391	 in 8.3712  sec
+DEBUG:root:Loss of last 10 epochs: 0.4174	 in 9.3432  sec
+DEBUG:root:Loss of last 10 epochs: 0.4298	 in 9.2739  sec
+DEBUG:root:Loss of last 10 epochs: 0.4098	 in 9.1041  sec
+DEBUG:root:Loss of last 10 epochs: 0.4168	 in 9.6330  sec
+DEBUG:root:Loss of last 10 epochs: 0.4079	 in 10.7969  sec
+DEBUG:root:Loss of last 10 epochs: 0.4100	 in 9.7705  sec
+DEBUG:root:Loss of last 10 epochs: 0.4179	 in 11.5270  sec
+DEBUG:root:Loss of last 10 epochs: 0.4061	 in 9.0703  sec
+DEBUG:root:Loss of last 10 epochs: 0.4063	 in 9.1483  sec
+DEBUG:root:Loss of last 10 epochs: 0.4004	 in 8.7551  sec
+DEBUG:root:Loss of last 10 epochs: 0.3986	 in 8.4018  sec
+DEBUG:root:Loss of last 10 epochs: 0.4086	 in 9.0996  sec
+DEBUG:root:Loss of last 10 epochs: 0.3964	 in 9.1535  sec
+DEBUG:root:Loss of last 10 epochs: 0.3914	 in 9.1094  sec
+DEBUG:root:Loss of last 10 epochs: 0.3936	 in 9.7555  sec
+DEBUG:root:Loss of last 10 epochs: 0.3952	 in 9.2430  sec
+DEBUG:root:Loss of last 10 epochs: 0.3965	 in 10.7871  sec
+DEBUG:root:Loss of last 10 epochs: 0.3955	 in 9.9831  sec
+DEBUG:root:Loss of last 10 epochs: 0.3870	 in 9.9110  sec
+DEBUG:root:Loss of last 10 epochs: 0.3786	 in 9.8734  sec
+DEBUG:root:Loss of last 10 epochs: 0.3821	 in 10.0319  sec
+DEBUG:root:Loss of last 10 epochs: 0.3833	 in 8.5938  sec
+DEBUG:root:Loss of last 10 epochs: 0.3828	 in 8.9135  sec
+DEBUG:root:Loss of last 10 epochs: 0.3780	 in 8.2915  sec
+DEBUG:root:Loss of last 10 epochs: 0.3871	 in 8.2839  sec
+DEBUG:root:Loss of last 10 epochs: 0.3892	 in 8.3324  sec
+DEBUG:root:Loss of last 10 epochs: 0.3803	 in 8.6440  sec
+DEBUG:root:Loss of last 10 epochs: 0.3797	 in 8.8517  sec
+DEBUG:root:Loss of last 10 epochs: 0.3785	 in 8.4294  sec
+DEBUG:root:Loss of last 10 epochs: 0.3774	 in 8.4839  sec
+DEBUG:root:Loss of last 10 epochs: 0.3717	 in 8.6274  sec
+DEBUG:root:Loss of last 10 epochs: 0.3759	 in 9.2466  sec
+DEBUG:root:Loss of last 10 epochs: 0.3679	 in 11.8286  sec
+DEBUG:root:Loss of last 10 epochs: 0.3820	 in 10.1783  sec
+DEBUG:root:Loss of last 10 epochs: 0.3766	 in 9.9687  sec
+DEBUG:root:Loss of last 10 epochs: 0.3696	 in 9.3758  sec
+DEBUG:root:Loss of last 10 epochs: 0.3720	 in 11.0860  sec
+DEBUG:root:Loss of last 10 epochs: 0.3739	 in 10.5704  sec
+DEBUG:root:Loss of last 10 epochs: 0.3665	 in 9.4052  sec
+DEBUG:root:Loss of last 10 epochs: 0.3616	 in 9.5715  sec
+DEBUG:root:Loss of last 10 epochs: 0.3643	 in 9.3936  sec
+DEBUG:root:Loss of last 10 epochs: 0.3634	 in 9.4932  sec
+DEBUG:root:Loss of last 10 epochs: 0.3658	 in 9.3802  sec
+DEBUG:root:Loss of last 10 epochs: 0.3681	 in 9.3951  sec
+DEBUG:root:Loss of last 10 epochs: 0.3737	 in 9.3043  sec
+DEBUG:root:Loss of last 10 epochs: 0.3697	 in 9.2849  sec
+INFO:root:Valid-Epoch 999
+INFO:root:MMR: 0.5358087546061573
+INFO:root:Rank: 204.65247844827587, Rank tail: 197.39547413793105, Rank head: 211.9094827586207
+INFO:root:Hit1: 0.4806034482758621, Hit1 tail: 0.5571120689655172, Hit1 head: 0.4040948275862069
+INFO:root:Hit3: 0.5646551724137931, Hit3 tail: 0.615301724137931, Hit3 head: 0.5140086206896551
+INFO:root:Hit10: 0.640625, Hit10 tail: 0.6293103448275862, Hit10 head: 0.6519396551724138
+INFO:root:New Best!
+DEBUG:root:Loss of last 10 epochs: 0.3628	 in 18.1749  sec
+DEBUG:root:Loss of last 10 epochs: 0.3557	 in 9.1789  sec
+DEBUG:root:Loss of last 10 epochs: 0.3612	 in 9.1257  sec
+DEBUG:root:Loss of last 10 epochs: 0.3563	 in 9.1473  sec
+DEBUG:root:Loss of last 10 epochs: 0.3577	 in 9.1931  sec
+DEBUG:root:Loss of last 10 epochs: 0.3533	 in 9.2090  sec
+DEBUG:root:Loss of last 10 epochs: 0.3585	 in 9.0914  sec
+DEBUG:root:Loss of last 10 epochs: 0.3563	 in 9.5670  sec
+DEBUG:root:Loss of last 10 epochs: 0.3587	 in 9.3148  sec
+DEBUG:root:Loss of last 10 epochs: 0.3526	 in 9.2326  sec
+DEBUG:root:Loss of last 10 epochs: 0.3616	 in 9.1348  sec
+DEBUG:root:Loss of last 10 epochs: 0.3493	 in 9.3527  sec
+DEBUG:root:Loss of last 10 epochs: 0.3567	 in 9.2495  sec
+DEBUG:root:Loss of last 10 epochs: 0.3554	 in 9.4517  sec
+DEBUG:root:Loss of last 10 epochs: 0.3546	 in 9.3565  sec
+DEBUG:root:Loss of last 10 epochs: 0.3514	 in 9.2803  sec
+DEBUG:root:Loss of last 10 epochs: 0.3585	 in 9.8557  sec
+DEBUG:root:Loss of last 10 epochs: 0.3520	 in 8.8019  sec
+DEBUG:root:Loss of last 10 epochs: 0.3523	 in 8.7903  sec
+DEBUG:root:Loss of last 10 epochs: 0.3471	 in 8.7275  sec
+DEBUG:root:Loss of last 10 epochs: 0.3535	 in 8.5238  sec
+DEBUG:root:Loss of last 10 epochs: 0.3489	 in 9.0556  sec
+DEBUG:root:Loss of last 10 epochs: 0.3433	 in 8.4155  sec
+DEBUG:root:Loss of last 10 epochs: 0.3521	 in 8.7494  sec
+DEBUG:root:Loss of last 10 epochs: 0.3482	 in 9.2703  sec
+DEBUG:root:Loss of last 10 epochs: 0.3501	 in 8.9849  sec
+DEBUG:root:Loss of last 10 epochs: 0.3485	 in 8.7536  sec
+DEBUG:root:Loss of last 10 epochs: 0.3483	 in 9.5457  sec
+DEBUG:root:Loss of last 10 epochs: 0.3468	 in 9.5005  sec
+DEBUG:root:Loss of last 10 epochs: 0.3409	 in 9.2125  sec
+DEBUG:root:Loss of last 10 epochs: 0.3404	 in 8.6157  sec
+DEBUG:root:Loss of last 10 epochs: 0.3492	 in 8.5846  sec
+DEBUG:root:Loss of last 10 epochs: 0.3478	 in 8.3539  sec
+DEBUG:root:Loss of last 10 epochs: 0.3437	 in 8.5001  sec
+DEBUG:root:Loss of last 10 epochs: 0.3374	 in 8.6564  sec
+DEBUG:root:Loss of last 10 epochs: 0.3427	 in 8.4215  sec
+DEBUG:root:Loss of last 10 epochs: 0.3391	 in 8.7940  sec
+DEBUG:root:Loss of last 10 epochs: 0.3401	 in 9.1820  sec
+DEBUG:root:Loss of last 10 epochs: 0.3340	 in 9.6349  sec
+DEBUG:root:Loss of last 10 epochs: 0.3390	 in 8.6168  sec
+DEBUG:root:Loss of last 10 epochs: 0.3391	 in 8.4118  sec
+DEBUG:root:Loss of last 10 epochs: 0.3428	 in 8.3000  sec
+DEBUG:root:Loss of last 10 epochs: 0.3326	 in 8.2670  sec
+DEBUG:root:Loss of last 10 epochs: 0.3415	 in 8.3127  sec
+DEBUG:root:Loss of last 10 epochs: 0.3462	 in 8.3101  sec
+DEBUG:root:Loss of last 10 epochs: 0.3422	 in 8.3629  sec
+DEBUG:root:Loss of last 10 epochs: 0.3400	 in 8.3269  sec
+DEBUG:root:Loss of last 10 epochs: 0.3338	 in 8.5961  sec
+DEBUG:root:Loss of last 10 epochs: 0.3356	 in 8.3659  sec
+DEBUG:root:Loss of last 10 epochs: 0.3336	 in 8.6445  sec
+INFO:root:Valid-Epoch 1499
+INFO:root:MMR: 0.5167264689215529
+INFO:root:Rank: 259.78071120689657, Rank tail: 200.4364224137931, Rank head: 319.125
+INFO:root:Hit1: 0.46875, Hit1 tail: 0.5625, Hit1 head: 0.375
+INFO:root:Hit3: 0.5258620689655172, Hit3 tail: 0.6120689655172413, Hit3 head: 0.4396551724137931
+INFO:root:Hit10: 0.6276939655172413, Hit10 tail: 0.6325431034482759, Hit10 head: 0.6228448275862069
+DEBUG:root:Loss of last 10 epochs: 0.3370	 in 19.0218  sec
+DEBUG:root:Loss of last 10 epochs: 0.3372	 in 9.0053  sec
+DEBUG:root:Loss of last 10 epochs: 0.3455	 in 10.1358  sec
+DEBUG:root:Loss of last 10 epochs: 0.3404	 in 10.0030  sec
+DEBUG:root:Loss of last 10 epochs: 0.3376	 in 10.3178  sec
+DEBUG:root:Loss of last 10 epochs: 0.3397	 in 10.6048  sec
+DEBUG:root:Loss of last 10 epochs: 0.3333	 in 9.7634  sec
+DEBUG:root:Loss of last 10 epochs: 0.3364	 in 10.0367  sec
+DEBUG:root:Loss of last 10 epochs: 0.3358	 in 9.9309  sec
+DEBUG:root:Loss of last 10 epochs: 0.3335	 in 9.1459  sec
+DEBUG:root:Loss of last 10 epochs: 0.3334	 in 10.6716  sec
+DEBUG:root:Loss of last 10 epochs: 0.3292	 in 10.1631  sec
+DEBUG:root:Loss of last 10 epochs: 0.3331	 in 10.5993  sec
+DEBUG:root:Loss of last 10 epochs: 0.3387	 in 11.2263  sec
+DEBUG:root:Loss of last 10 epochs: 0.3366	 in 11.3952  sec
+DEBUG:root:Loss of last 10 epochs: 0.3322	 in 9.9267  sec
+DEBUG:root:Loss of last 10 epochs: 0.3320	 in 8.6266  sec
+DEBUG:root:Loss of last 10 epochs: 0.3341	 in 8.5075  sec
+DEBUG:root:Loss of last 10 epochs: 0.3343	 in 8.4872  sec
+DEBUG:root:Loss of last 10 epochs: 0.3329	 in 8.4454  sec
+DEBUG:root:Loss of last 10 epochs: 0.3298	 in 8.4111  sec
+DEBUG:root:Loss of last 10 epochs: 0.3317	 in 8.4246  sec
+DEBUG:root:Loss of last 10 epochs: 0.3285	 in 8.4467  sec
+DEBUG:root:Loss of last 10 epochs: 0.3251	 in 8.5034  sec
+DEBUG:root:Loss of last 10 epochs: 0.3299	 in 8.4210  sec
+DEBUG:root:Loss of last 10 epochs: 0.3329	 in 8.4384  sec
+DEBUG:root:Loss of last 10 epochs: 0.3306	 in 8.4824  sec
+DEBUG:root:Loss of last 10 epochs: 0.3301	 in 8.7103  sec
+DEBUG:root:Loss of last 10 epochs: 0.3273	 in 9.2186  sec
+DEBUG:root:Loss of last 10 epochs: 0.3263	 in 8.5691  sec
+DEBUG:root:Loss of last 10 epochs: 0.3289	 in 8.4959  sec
+DEBUG:root:Loss of last 10 epochs: 0.3271	 in 8.7716  sec
+DEBUG:root:Loss of last 10 epochs: 0.3204	 in 9.3482  sec
+DEBUG:root:Loss of last 10 epochs: 0.3291	 in 9.0105  sec
+DEBUG:root:Loss of last 10 epochs: 0.3250	 in 9.5137  sec
+DEBUG:root:Loss of last 10 epochs: 0.3259	 in 9.7489  sec
+DEBUG:root:Loss of last 10 epochs: 0.3273	 in 8.7442  sec
+DEBUG:root:Loss of last 10 epochs: 0.3269	 in 9.0388  sec
+DEBUG:root:Loss of last 10 epochs: 0.3249	 in 9.3962  sec
+DEBUG:root:Loss of last 10 epochs: 0.3257	 in 9.1739  sec
+DEBUG:root:Loss of last 10 epochs: 0.3220	 in 9.2085  sec
+DEBUG:root:Loss of last 10 epochs: 0.3220	 in 9.0846  sec
+DEBUG:root:Loss of last 10 epochs: 0.3214	 in 8.7096  sec
+DEBUG:root:Loss of last 10 epochs: 0.3210	 in 8.8991  sec
+DEBUG:root:Loss of last 10 epochs: 0.3154	 in 9.0507  sec
+DEBUG:root:Loss of last 10 epochs: 0.3271	 in 8.9577  sec
+DEBUG:root:Loss of last 10 epochs: 0.3247	 in 9.2232  sec
+DEBUG:root:Loss of last 10 epochs: 0.3233	 in 9.0262  sec
+DEBUG:root:Loss of last 10 epochs: 0.3220	 in 9.4577  sec
+DEBUG:root:Loss of last 10 epochs: 0.3177	 in 9.4027  sec
+INFO:root:Valid-Epoch 1999
+INFO:root:MMR: 0.5169686134822037
+INFO:root:Rank: 273.0748922413793, Rank tail: 155.57112068965517, Rank head: 390.57866379310343
+INFO:root:Hit1: 0.4725215517241379, Hit1 tail: 0.5603448275862069, Hit1 head: 0.38469827586206895
+INFO:root:Hit3: 0.5334051724137931, Hit3 tail: 0.6163793103448276, Hit3 head: 0.4504310344827586
+INFO:root:Hit10: 0.6045258620689655, Hit10 tail: 0.6357758620689655, Hit10 head: 0.5732758620689655
+DEBUG:root:Loss of last 10 epochs: 0.3249	 in 18.2101  sec
+DEBUG:root:Loss of last 10 epochs: 0.3223	 in 9.3894  sec
+DEBUG:root:Loss of last 10 epochs: 0.3213	 in 8.5886  sec
+DEBUG:root:Loss of last 10 epochs: 0.3243	 in 9.0392  sec
+DEBUG:root:Loss of last 10 epochs: 0.3304	 in 8.7470  sec
+DEBUG:root:Loss of last 10 epochs: 0.3151	 in 9.0336  sec
+DEBUG:root:Loss of last 10 epochs: 0.3198	 in 9.2928  sec
+DEBUG:root:Loss of last 10 epochs: 0.3180	 in 9.0189  sec
+DEBUG:root:Loss of last 10 epochs: 0.3211	 in 8.7635  sec
+DEBUG:root:Loss of last 10 epochs: 0.3222	 in 8.6430  sec
+DEBUG:root:Loss of last 10 epochs: 0.3227	 in 8.7258  sec
+DEBUG:root:Loss of last 10 epochs: 0.3255	 in 8.9690  sec
+DEBUG:root:Loss of last 10 epochs: 0.3144	 in 8.7660  sec
+DEBUG:root:Loss of last 10 epochs: 0.3161	 in 9.2269  sec
+DEBUG:root:Loss of last 10 epochs: 0.3169	 in 8.8882  sec
+DEBUG:root:Loss of last 10 epochs: 0.3200	 in 9.1478  sec
+DEBUG:root:Loss of last 10 epochs: 0.3131	 in 8.6617  sec
+DEBUG:root:Loss of last 10 epochs: 0.3286	 in 8.7664  sec
+DEBUG:root:Loss of last 10 epochs: 0.3240	 in 8.3515  sec
+DEBUG:root:Loss of last 10 epochs: 0.3185	 in 8.6990  sec
+DEBUG:root:Loss of last 10 epochs: 0.3216	 in 8.8080  sec
+DEBUG:root:Loss of last 10 epochs: 0.3132	 in 9.2356  sec
+DEBUG:root:Loss of last 10 epochs: 0.3152	 in 9.1235  sec
+DEBUG:root:Loss of last 10 epochs: 0.3112	 in 9.2836  sec
+DEBUG:root:Loss of last 10 epochs: 0.3138	 in 9.3807  sec
+DEBUG:root:Loss of last 10 epochs: 0.3116	 in 9.3143  sec
+DEBUG:root:Loss of last 10 epochs: 0.3127	 in 9.2123  sec
+DEBUG:root:Loss of last 10 epochs: 0.3155	 in 9.1896  sec
+DEBUG:root:Loss of last 10 epochs: 0.3092	 in 9.2203  sec
+DEBUG:root:Loss of last 10 epochs: 0.3096	 in 10.6677  sec
+DEBUG:root:Loss of last 10 epochs: 0.3113	 in 9.4781  sec
+DEBUG:root:Loss of last 10 epochs: 0.3074	 in 11.3339  sec
+DEBUG:root:Loss of last 10 epochs: 0.3128	 in 11.4092  sec
+DEBUG:root:Loss of last 10 epochs: 0.3213	 in 10.0320  sec
+DEBUG:root:Loss of last 10 epochs: 0.3197	 in 10.1939  sec
+DEBUG:root:Loss of last 10 epochs: 0.3196	 in 10.5249  sec
+DEBUG:root:Loss of last 10 epochs: 0.3080	 in 10.2282  sec
+DEBUG:root:Loss of last 10 epochs: 0.3030	 in 10.1393  sec
+DEBUG:root:Loss of last 10 epochs: 0.3090	 in 10.2187  sec
+DEBUG:root:Loss of last 10 epochs: 0.3118	 in 9.1344  sec
+DEBUG:root:Loss of last 10 epochs: 0.3141	 in 12.0211  sec
+DEBUG:root:Loss of last 10 epochs: 0.3069	 in 11.0414  sec
+DEBUG:root:Loss of last 10 epochs: 0.3091	 in 9.8463  sec
+DEBUG:root:Loss of last 10 epochs: 0.3131	 in 9.2596  sec
+DEBUG:root:Loss of last 10 epochs: 0.3143	 in 10.4349  sec
+DEBUG:root:Loss of last 10 epochs: 0.3114	 in 10.1842  sec
+DEBUG:root:Loss of last 10 epochs: 0.3102	 in 10.2940  sec
+DEBUG:root:Loss of last 10 epochs: 0.3122	 in 8.4266  sec
+DEBUG:root:Loss of last 10 epochs: 0.3077	 in 8.6051  sec
+DEBUG:root:Loss of last 10 epochs: 0.3171	 in 9.6840  sec
+INFO:root:Valid-Epoch 2499
+INFO:root:MMR: 0.5370050487699156
+INFO:root:Rank: 250.72629310344828, Rank tail: 177.1530172413793, Rank head: 324.29956896551727
+INFO:root:Hit1: 0.49407327586206895, Hit1 tail: 0.5603448275862069, Hit1 head: 0.42780172413793105
+INFO:root:Hit3: 0.556573275862069, Hit3 tail: 0.6196120689655172, Hit3 head: 0.49353448275862066
+INFO:root:Hit10: 0.6169181034482758, Hit10 tail: 0.634698275862069, Hit10 head: 0.5991379310344828
+INFO:root:New Best!
+DEBUG:root:Loss of last 10 epochs: 0.3095	 in 18.9115  sec
+DEBUG:root:Loss of last 10 epochs: 0.3077	 in 9.3872  sec
+DEBUG:root:Loss of last 10 epochs: 0.3056	 in 9.5037  sec
+DEBUG:root:Loss of last 10 epochs: 0.3036	 in 9.5554  sec
+DEBUG:root:Loss of last 10 epochs: 0.3069	 in 8.7556  sec
+DEBUG:root:Loss of last 10 epochs: 0.3043	 in 9.5515  sec
+DEBUG:root:Loss of last 10 epochs: 0.3043	 in 9.2198  sec
+DEBUG:root:Loss of last 10 epochs: 0.2984	 in 9.5346  sec
+DEBUG:root:Loss of last 10 epochs: 0.3091	 in 10.1427  sec
+DEBUG:root:Loss of last 10 epochs: 0.3478	 in 10.4839  sec
+DEBUG:root:Loss of last 10 epochs: 0.3217	 in 9.7040  sec
+DEBUG:root:Loss of last 10 epochs: 0.3197	 in 10.0968  sec
+DEBUG:root:Loss of last 10 epochs: 0.3135	 in 9.7559  sec
+DEBUG:root:Loss of last 10 epochs: 0.3071	 in 9.3994  sec
+DEBUG:root:Loss of last 10 epochs: 0.3080	 in 9.7843  sec
+DEBUG:root:Loss of last 10 epochs: 0.3105	 in 10.0560  sec
+DEBUG:root:Loss of last 10 epochs: 0.3046	 in 9.4401  sec
+DEBUG:root:Loss of last 10 epochs: 0.3055	 in 9.5752  sec
+DEBUG:root:Loss of last 10 epochs: 0.3018	 in 9.5508  sec
+DEBUG:root:Loss of last 10 epochs: 0.3002	 in 9.5105  sec
+DEBUG:root:Loss of last 10 epochs: 0.2999	 in 9.3661  sec
+DEBUG:root:Loss of last 10 epochs: 0.3022	 in 9.4054  sec
+DEBUG:root:Loss of last 10 epochs: 0.3046	 in 9.3252  sec
+DEBUG:root:Loss of last 10 epochs: 0.3007	 in 9.4207  sec
+DEBUG:root:Loss of last 10 epochs: 0.3020	 in 9.4617  sec
+DEBUG:root:Loss of last 10 epochs: 0.2973	 in 10.3054  sec
+DEBUG:root:Loss of last 10 epochs: 0.2984	 in 10.3648  sec
+DEBUG:root:Loss of last 10 epochs: 0.2959	 in 9.6441  sec
+DEBUG:root:Loss of last 10 epochs: 0.2986	 in 11.1252  sec
+DEBUG:root:Loss of last 10 epochs: 0.2996	 in 10.2068  sec
+DEBUG:root:Loss of last 10 epochs: 0.2994	 in 10.0651  sec
+DEBUG:root:Loss of last 10 epochs: 0.2957	 in 9.7067  sec
+DEBUG:root:Loss of last 10 epochs: 0.2944	 in 10.0366  sec
+DEBUG:root:Loss of last 10 epochs: 0.2883	 in 10.4653  sec
+DEBUG:root:Loss of last 10 epochs: 0.3062	 in 9.6245  sec
+DEBUG:root:Loss of last 10 epochs: 0.2916	 in 9.5028  sec
+DEBUG:root:Loss of last 10 epochs: 0.2964	 in 9.2908  sec
+DEBUG:root:Loss of last 10 epochs: 0.2975	 in 9.2619  sec
+DEBUG:root:Loss of last 10 epochs: 0.2958	 in 9.5723  sec
+DEBUG:root:Loss of last 10 epochs: 0.2882	 in 9.3811  sec
+DEBUG:root:Loss of last 10 epochs: 0.2904	 in 9.3288  sec
+DEBUG:root:Loss of last 10 epochs: 0.3033	 in 9.3950  sec
+DEBUG:root:Loss of last 10 epochs: 0.3006	 in 9.2653  sec
+DEBUG:root:Loss of last 10 epochs: 0.2973	 in 9.2829  sec
+DEBUG:root:Loss of last 10 epochs: 0.2907	 in 9.3199  sec
+DEBUG:root:Loss of last 10 epochs: 0.2985	 in 9.2599  sec
+DEBUG:root:Loss of last 10 epochs: 0.2963	 in 9.3993  sec
+DEBUG:root:Loss of last 10 epochs: 0.2918	 in 10.4101  sec
+DEBUG:root:Loss of last 10 epochs: 0.3035	 in 9.3918  sec
+DEBUG:root:Loss of last 10 epochs: 0.2907	 in 9.3325  sec
+INFO:root:Valid-Epoch 2999
+INFO:root:MMR: 0.5294954367976931
+INFO:root:Rank: 230.2209051724138, Rank tail: 159.59159482758622, Rank head: 300.8502155172414
+INFO:root:Hit1: 0.48221982758620685, Hit1 tail: 0.5398706896551724, Hit1 head: 0.4245689655172414
+INFO:root:Hit3: 0.5549568965517242, Hit3 tail: 0.6066810344827587, Hit3 head: 0.5032327586206896
+INFO:root:Hit10: 0.6174568965517242, Hit10 tail: 0.6325431034482759, Hit10 head: 0.6023706896551724
+DEBUG:root:Loss of last 10 epochs: 0.2865	 in 18.5233  sec
+DEBUG:root:Loss of last 10 epochs: 0.2924	 in 9.2266  sec
+DEBUG:root:Loss of last 10 epochs: 0.2932	 in 9.2378  sec
+DEBUG:root:Loss of last 10 epochs: 0.2978	 in 9.6679  sec
+DEBUG:root:Loss of last 10 epochs: 0.2954	 in 9.4558  sec
+DEBUG:root:Loss of last 10 epochs: 0.2951	 in 9.4289  sec
+DEBUG:root:Loss of last 10 epochs: 0.2941	 in 9.4434  sec
+DEBUG:root:Loss of last 10 epochs: 0.2881	 in 9.4155  sec
+DEBUG:root:Loss of last 10 epochs: 0.2885	 in 9.3619  sec
+DEBUG:root:Loss of last 10 epochs: 0.2897	 in 10.5180  sec
+DEBUG:root:Loss of last 10 epochs: 0.2873	 in 9.5905  sec
+DEBUG:root:Loss of last 10 epochs: 0.2881	 in 9.7598  sec
+DEBUG:root:Loss of last 10 epochs: 0.2895	 in 9.6355  sec
+DEBUG:root:Loss of last 10 epochs: 0.2879	 in 9.4519  sec
+DEBUG:root:Loss of last 10 epochs: 0.2909	 in 8.8313  sec
+DEBUG:root:Loss of last 10 epochs: 0.2861	 in 9.7704  sec
+DEBUG:root:Loss of last 10 epochs: 0.2809	 in 11.1587  sec
+DEBUG:root:Loss of last 10 epochs: 0.2773	 in 9.8817  sec
+DEBUG:root:Loss of last 10 epochs: 0.2760	 in 9.4481  sec
+DEBUG:root:Loss of last 10 epochs: 0.2929	 in 9.4690  sec
+DEBUG:root:Loss of last 10 epochs: 0.3053	 in 9.3928  sec
+DEBUG:root:Loss of last 10 epochs: 0.2909	 in 9.5129  sec
+DEBUG:root:Loss of last 10 epochs: 0.2897	 in 9.5423  sec
+DEBUG:root:Loss of last 10 epochs: 0.2840	 in 9.4282  sec
+DEBUG:root:Loss of last 10 epochs: 0.2825	 in 9.5783  sec
+DEBUG:root:Loss of last 10 epochs: 0.2876	 in 9.4888  sec
+DEBUG:root:Loss of last 10 epochs: 0.2959	 in 9.4861  sec
+DEBUG:root:Loss of last 10 epochs: 0.2816	 in 9.5238  sec
+DEBUG:root:Loss of last 10 epochs: 0.2824	 in 9.5255  sec
+DEBUG:root:Loss of last 10 epochs: 0.2822	 in 9.4324  sec
+DEBUG:root:Loss of last 10 epochs: 0.2770	 in 9.5814  sec
+DEBUG:root:Loss of last 10 epochs: 0.2757	 in 9.9149  sec
+DEBUG:root:Loss of last 10 epochs: 0.2795	 in 9.3964  sec
+DEBUG:root:Loss of last 10 epochs: 0.2700	 in 9.8473  sec
+DEBUG:root:Loss of last 10 epochs: 0.2732	 in 10.4049  sec
+DEBUG:root:Loss of last 10 epochs: 0.2818	 in 10.8652  sec
+DEBUG:root:Loss of last 10 epochs: 0.2955	 in 9.2110  sec
+DEBUG:root:Loss of last 10 epochs: 0.2845	 in 10.3066  sec
+DEBUG:root:Loss of last 10 epochs: 0.2863	 in 10.0646  sec
+DEBUG:root:Loss of last 10 epochs: 0.2908	 in 9.1890  sec
+DEBUG:root:Loss of last 10 epochs: 0.2838	 in 9.7125  sec
+DEBUG:root:Loss of last 10 epochs: 0.2835	 in 9.9628  sec
+DEBUG:root:Loss of last 10 epochs: 0.2802	 in 9.9361  sec
+DEBUG:root:Loss of last 10 epochs: 0.2768	 in 9.8432  sec
+DEBUG:root:Loss of last 10 epochs: 0.2726	 in 10.9836  sec
+DEBUG:root:Loss of last 10 epochs: 0.2713	 in 10.6569  sec
+DEBUG:root:Loss of last 10 epochs: 0.2670	 in 11.5081  sec
+DEBUG:root:Loss of last 10 epochs: 0.2664	 in 10.5353  sec
+DEBUG:root:Loss of last 10 epochs: 0.2699	 in 10.0232  sec
+DEBUG:root:Loss of last 10 epochs: 0.2688	 in 10.5270  sec
+INFO:root:Valid-Epoch 3499
+INFO:root:MMR: 0.5367599959570809
+INFO:root:Rank: 227.3469827586207, Rank tail: 110.22844827586206, Rank head: 344.4655172413793
+INFO:root:Hit1: 0.5010775862068966, Hit1 tail: 0.5678879310344828, Hit1 head: 0.43426724137931033
+INFO:root:Hit3: 0.546875, Hit3 tail: 0.6120689655172413, Hit3 head: 0.4816810344827586
+INFO:root:Hit10: 0.6082974137931034, Hit10 tail: 0.6390086206896551, Hit10 head: 0.5775862068965517
+DEBUG:root:Loss of last 10 epochs: 0.2785	 in 21.0278  sec
+DEBUG:root:Loss of last 10 epochs: 0.2912	 in 10.0108  sec
+DEBUG:root:Loss of last 10 epochs: 0.2906	 in 9.9871  sec
+DEBUG:root:Loss of last 10 epochs: 0.2751	 in 9.9022  sec
+DEBUG:root:Loss of last 10 epochs: 0.2632	 in 9.9391  sec
+DEBUG:root:Loss of last 10 epochs: 0.2774	 in 9.9536  sec
+DEBUG:root:Loss of last 10 epochs: 0.2720	 in 9.8939  sec
+DEBUG:root:Loss of last 10 epochs: 0.2703	 in 9.9665  sec
+DEBUG:root:Loss of last 10 epochs: 0.2731	 in 9.8976  sec
+DEBUG:root:Loss of last 10 epochs: 0.2818	 in 10.1626  sec
+DEBUG:root:Loss of last 10 epochs: 0.2753	 in 9.8816  sec
+DEBUG:root:Loss of last 10 epochs: 0.2886	 in 9.3880  sec
+DEBUG:root:Loss of last 10 epochs: 0.3056	 in 10.6887  sec
+DEBUG:root:Loss of last 10 epochs: 0.2900	 in 10.0333  sec
+DEBUG:root:Loss of last 10 epochs: 0.2807	 in 10.6021  sec
+DEBUG:root:Loss of last 10 epochs: 0.2893	 in 10.5582  sec
+DEBUG:root:Loss of last 10 epochs: 0.2837	 in 11.1306  sec
+DEBUG:root:Loss of last 10 epochs: 0.2747	 in 10.4470  sec
+DEBUG:root:Loss of last 10 epochs: 0.2735	 in 10.5523  sec
+DEBUG:root:Loss of last 10 epochs: 0.2755	 in 10.9265  sec
+DEBUG:root:Loss of last 10 epochs: 0.2830	 in 10.0154  sec
+DEBUG:root:Loss of last 10 epochs: 0.2749	 in 9.5762  sec
+DEBUG:root:Loss of last 10 epochs: 0.2714	 in 9.3254  sec
+DEBUG:root:Loss of last 10 epochs: 0.2653	 in 9.9462  sec
+DEBUG:root:Loss of last 10 epochs: 0.2693	 in 9.8031  sec
+DEBUG:root:Loss of last 10 epochs: 0.2751	 in 10.5336  sec
+DEBUG:root:Loss of last 10 epochs: 0.2784	 in 10.2988  sec
+DEBUG:root:Loss of last 10 epochs: 0.2896	 in 10.0579  sec
+DEBUG:root:Loss of last 10 epochs: 0.2781	 in 10.0859  sec
+DEBUG:root:Loss of last 10 epochs: 0.2820	 in 10.1761  sec
+DEBUG:root:Loss of last 10 epochs: 0.2732	 in 10.0414  sec
+DEBUG:root:Loss of last 10 epochs: 0.2706	 in 9.9615  sec
+DEBUG:root:Loss of last 10 epochs: 0.2747	 in 10.1228  sec
+DEBUG:root:Loss of last 10 epochs: 0.2716	 in 10.4631  sec
+DEBUG:root:Loss of last 10 epochs: 0.2692	 in 9.9115  sec
+DEBUG:root:Loss of last 10 epochs: 0.2613	 in 10.1139  sec
+DEBUG:root:Loss of last 10 epochs: 0.2725	 in 9.9602  sec
+DEBUG:root:Loss of last 10 epochs: 0.2709	 in 10.0706  sec
+DEBUG:root:Loss of last 10 epochs: 0.2807	 in 10.2431  sec
+DEBUG:root:Loss of last 10 epochs: 0.2795	 in 10.2393  sec
+DEBUG:root:Loss of last 10 epochs: 0.2765	 in 10.1154  sec
+DEBUG:root:Loss of last 10 epochs: 0.2897	 in 10.0084  sec
+DEBUG:root:Loss of last 10 epochs: 0.2860	 in 10.5458  sec
+DEBUG:root:Loss of last 10 epochs: 0.2805	 in 9.6487  sec
+DEBUG:root:Loss of last 10 epochs: 0.2834	 in 9.5519  sec
+DEBUG:root:Loss of last 10 epochs: 0.2725	 in 9.3693  sec
+DEBUG:root:Loss of last 10 epochs: 0.2680	 in 9.4065  sec
+DEBUG:root:Loss of last 10 epochs: 0.2703	 in 9.8123  sec
+DEBUG:root:Loss of last 10 epochs: 0.2696	 in 11.1122  sec
+DEBUG:root:Loss of last 10 epochs: 0.2640	 in 11.9671  sec
+INFO:root:Valid-Epoch 3999
+INFO:root:MMR: 0.5189402689063651
+INFO:root:Rank: 245.21390086206895, Rank tail: 140.27370689655172, Rank head: 350.1540948275862
+INFO:root:Hit1: 0.47844827586206895, Hit1 tail: 0.5657327586206896, Hit1 head: 0.3911637931034483
+INFO:root:Hit3: 0.5441810344827587, Hit3 tail: 0.615301724137931, Hit3 head: 0.4730603448275862
+INFO:root:Hit10: 0.5953663793103449, Hit10 tail: 0.6379310344827587, Hit10 head: 0.552801724137931
+DEBUG:root:Loss of last 10 epochs: 0.2608	 in 20.6415  sec
+DEBUG:root:Loss of last 10 epochs: 0.2603	 in 9.2770  sec
+DEBUG:root:Loss of last 10 epochs: 0.2711	 in 10.2009  sec
+DEBUG:root:Loss of last 10 epochs: 0.2652	 in 9.6075  sec
+DEBUG:root:Loss of last 10 epochs: 0.2702	 in 9.8290  sec
+DEBUG:root:Loss of last 10 epochs: 0.2684	 in 9.6650  sec
+DEBUG:root:Loss of last 10 epochs: 0.2563	 in 9.3603  sec
+DEBUG:root:Loss of last 10 epochs: 0.2535	 in 10.6649  sec
+DEBUG:root:Loss of last 10 epochs: 0.2627	 in 9.4811  sec
+DEBUG:root:Loss of last 10 epochs: 0.2538	 in 9.1082  sec
+DEBUG:root:Loss of last 10 epochs: 0.2550	 in 9.1781  sec
+DEBUG:root:Loss of last 10 epochs: 0.2597	 in 9.7571  sec
+DEBUG:root:Loss of last 10 epochs: 0.2484	 in 10.2126  sec
+DEBUG:root:Loss of last 10 epochs: 0.2554	 in 10.3112  sec
+DEBUG:root:Loss of last 10 epochs: 0.2555	 in 10.5306  sec
+DEBUG:root:Loss of last 10 epochs: 0.2591	 in 10.1440  sec
+DEBUG:root:Loss of last 10 epochs: 0.2555	 in 11.2001  sec
+DEBUG:root:Loss of last 10 epochs: 0.2667	 in 10.4170  sec
+DEBUG:root:Loss of last 10 epochs: 0.2704	 in 10.0474  sec
+DEBUG:root:Loss of last 10 epochs: 0.2584	 in 10.1594  sec
+DEBUG:root:Loss of last 10 epochs: 0.2521	 in 10.2356  sec
+DEBUG:root:Loss of last 10 epochs: 0.2604	 in 10.2610  sec
+DEBUG:root:Loss of last 10 epochs: 0.2630	 in 9.9491  sec
+DEBUG:root:Loss of last 10 epochs: 0.2653	 in 10.0489  sec
+DEBUG:root:Loss of last 10 epochs: 0.2731	 in 10.6851  sec
+DEBUG:root:Loss of last 10 epochs: 0.2591	 in 10.3387  sec
+DEBUG:root:Loss of last 10 epochs: 0.2583	 in 9.8700  sec
+DEBUG:root:Loss of last 10 epochs: 0.2503	 in 9.6168  sec
+DEBUG:root:Loss of last 10 epochs: 0.2552	 in 9.2294  sec
+DEBUG:root:Loss of last 10 epochs: 0.2733	 in 9.2674  sec
+DEBUG:root:Loss of last 10 epochs: 0.2734	 in 9.6762  sec
+DEBUG:root:Loss of last 10 epochs: 0.2630	 in 9.3895  sec
+DEBUG:root:Loss of last 10 epochs: 0.2580	 in 10.4281  sec
+DEBUG:root:Loss of last 10 epochs: 0.2474	 in 10.6523  sec
+DEBUG:root:Loss of last 10 epochs: 0.2501	 in 9.7679  sec
+DEBUG:root:Loss of last 10 epochs: 0.2451	 in 9.2935  sec
+DEBUG:root:Loss of last 10 epochs: 0.2490	 in 9.1090  sec
+DEBUG:root:Loss of last 10 epochs: 0.2615	 in 9.1505  sec
+DEBUG:root:Loss of last 10 epochs: 0.2616	 in 9.6219  sec
+DEBUG:root:Loss of last 10 epochs: 0.2624	 in 12.0053  sec
+DEBUG:root:Loss of last 10 epochs: 0.2519	 in 10.5512  sec
+DEBUG:root:Loss of last 10 epochs: 0.2471	 in 9.9699  sec
+DEBUG:root:Loss of last 10 epochs: 0.2473	 in 9.8447  sec
+DEBUG:root:Loss of last 10 epochs: 0.2638	 in 9.8667  sec
+DEBUG:root:Loss of last 10 epochs: 0.2605	 in 10.2691  sec
+DEBUG:root:Loss of last 10 epochs: 0.2567	 in 10.2414  sec
+DEBUG:root:Loss of last 10 epochs: 0.2556	 in 10.2517  sec
+DEBUG:root:Loss of last 10 epochs: 0.2478	 in 10.1127  sec
+DEBUG:root:Loss of last 10 epochs: 0.2511	 in 10.2292  sec
+DEBUG:root:Loss of last 10 epochs: 0.2435	 in 10.1329  sec
+INFO:root:Valid-Epoch 4499
+INFO:root:MMR: 0.5206591291367229
+INFO:root:Rank: 185.17726293103448, Rank tail: 83.30711206896552, Rank head: 287.04741379310343
+INFO:root:Hit1: 0.4671336206896552, Hit1 tail: 0.5635775862068966, Hit1 head: 0.3706896551724138
+INFO:root:Hit3: 0.5484913793103449, Hit3 tail: 0.6109913793103449, Hit3 head: 0.4859913793103448
+INFO:root:Hit10: 0.6142241379310345, Hit10 tail: 0.6400862068965517, Hit10 head: 0.5883620689655172
+DEBUG:root:Loss of last 10 epochs: 0.2315	 in 21.1016  sec
+DEBUG:root:Loss of last 10 epochs: 0.2543	 in 10.8452  sec
+DEBUG:root:Loss of last 10 epochs: 0.2560	 in 10.7507  sec
+DEBUG:root:Loss of last 10 epochs: 0.2546	 in 10.5880  sec
+DEBUG:root:Loss of last 10 epochs: 0.2580	 in 10.3887  sec
+DEBUG:root:Loss of last 10 epochs: 0.2493	 in 10.4818  sec
+DEBUG:root:Loss of last 10 epochs: 0.2480	 in 10.7307  sec
+DEBUG:root:Loss of last 10 epochs: 0.2421	 in 10.3502  sec
+DEBUG:root:Loss of last 10 epochs: 0.2489	 in 10.6363  sec
+DEBUG:root:Loss of last 10 epochs: 0.2540	 in 10.3815  sec
+DEBUG:root:Loss of last 10 epochs: 0.2498	 in 11.0578  sec
+DEBUG:root:Loss of last 10 epochs: 0.2459	 in 10.7518  sec
+DEBUG:root:Loss of last 10 epochs: 0.2430	 in 10.3546  sec
+DEBUG:root:Loss of last 10 epochs: 0.2380	 in 10.4140  sec
+DEBUG:root:Loss of last 10 epochs: 0.2362	 in 10.1096  sec
+DEBUG:root:Loss of last 10 epochs: 0.2539	 in 10.2428  sec
+DEBUG:root:Loss of last 10 epochs: 0.2472	 in 10.5181  sec
+DEBUG:root:Loss of last 10 epochs: 0.2430	 in 10.2313  sec
+DEBUG:root:Loss of last 10 epochs: 0.2382	 in 10.5439  sec
+DEBUG:root:Loss of last 10 epochs: 0.2292	 in 11.2268  sec
+DEBUG:root:Loss of last 10 epochs: 0.2336	 in 10.8229  sec
+DEBUG:root:Loss of last 10 epochs: 0.2415	 in 10.8090  sec
+DEBUG:root:Loss of last 10 epochs: 0.2392	 in 10.4995  sec
+DEBUG:root:Loss of last 10 epochs: 0.2281	 in 10.3446  sec
+DEBUG:root:Loss of last 10 epochs: 0.2293	 in 10.4667  sec
+DEBUG:root:Loss of last 10 epochs: 0.2420	 in 10.9221  sec
+DEBUG:root:Loss of last 10 epochs: 0.2391	 in 10.2720  sec
+DEBUG:root:Loss of last 10 epochs: 0.2325	 in 10.1582  sec
+DEBUG:root:Loss of last 10 epochs: 0.2278	 in 10.1638  sec
+DEBUG:root:Loss of last 10 epochs: 0.2318	 in 10.3561  sec
+DEBUG:root:Loss of last 10 epochs: 0.2416	 in 10.3023  sec
+DEBUG:root:Loss of last 10 epochs: 0.2588	 in 10.2921  sec
+DEBUG:root:Loss of last 10 epochs: 0.2433	 in 10.5266  sec
+DEBUG:root:Loss of last 10 epochs: 0.2491	 in 10.4262  sec
+DEBUG:root:Loss of last 10 epochs: 0.2399	 in 10.2329  sec
+DEBUG:root:Loss of last 10 epochs: 0.2515	 in 10.4484  sec
+DEBUG:root:Loss of last 10 epochs: 0.2548	 in 10.1479  sec
+DEBUG:root:Loss of last 10 epochs: 0.2564	 in 9.9771  sec
+DEBUG:root:Loss of last 10 epochs: 0.2630	 in 10.4671  sec
+DEBUG:root:Loss of last 10 epochs: 0.2464	 in 10.1830  sec
+DEBUG:root:Loss of last 10 epochs: 0.2466	 in 10.2328  sec
+DEBUG:root:Loss of last 10 epochs: 0.2380	 in 10.2090  sec
+DEBUG:root:Loss of last 10 epochs: 0.2459	 in 10.1508  sec
+DEBUG:root:Loss of last 10 epochs: 0.2391	 in 10.2192  sec
+DEBUG:root:Loss of last 10 epochs: 0.2422	 in 10.2774  sec
+DEBUG:root:Loss of last 10 epochs: 0.2359	 in 10.3965  sec
+DEBUG:root:Loss of last 10 epochs: 0.2306	 in 10.7335  sec
+DEBUG:root:Loss of last 10 epochs: 0.2213	 in 10.0819  sec
+DEBUG:root:Loss of last 10 epochs: 0.2145	 in 10.0732  sec
+DEBUG:root:Loss of last 10 epochs: 0.2127	 in 10.0853  sec
+INFO:root:Valid-Epoch 4999
+INFO:root:MMR: 0.5005492856197812
+INFO:root:Rank: 203.5980603448276, Rank tail: 55.678879310344826, Rank head: 351.51724137931035
+INFO:root:Hit1: 0.453125, Hit1 tail: 0.5657327586206896, Hit1 head: 0.34051724137931033
+INFO:root:Hit3: 0.5102370689655172, Hit3 tail: 0.6012931034482759, Hit3 head: 0.4191810344827586
+INFO:root:Hit10: 0.5921336206896552, Hit10 tail: 0.6411637931034483, Hit10 head: 0.5431034482758621
+DEBUG:root:Loss of last 10 epochs: 0.2209	 in 20.0135  sec
+DEBUG:root:Loss of last 10 epochs: 0.2279	 in 10.1052  sec
+DEBUG:root:Loss of last 10 epochs: 0.2377	 in 10.0410  sec
+DEBUG:root:Loss of last 10 epochs: 0.2249	 in 9.9753  sec
+DEBUG:root:Loss of last 10 epochs: 0.2254	 in 10.3900  sec
+DEBUG:root:Loss of last 10 epochs: 0.2441	 in 10.4950  sec
+DEBUG:root:Loss of last 10 epochs: 0.2425	 in 10.4383  sec
+DEBUG:root:Loss of last 10 epochs: 0.2373	 in 10.0164  sec
+DEBUG:root:Loss of last 10 epochs: 0.2310	 in 10.0571  sec
+DEBUG:root:Loss of last 10 epochs: 0.2303	 in 10.4865  sec
+DEBUG:root:Loss of last 10 epochs: 0.2274	 in 10.4007  sec
+DEBUG:root:Loss of last 10 epochs: 0.2344	 in 10.1223  sec
+DEBUG:root:Loss of last 10 epochs: 0.2310	 in 10.3370  sec
+DEBUG:root:Loss of last 10 epochs: 0.2205	 in 10.1892  sec
+DEBUG:root:Loss of last 10 epochs: 0.2289	 in 10.2566  sec
+DEBUG:root:Loss of last 10 epochs: 0.2300	 in 10.1156  sec
+DEBUG:root:Loss of last 10 epochs: 0.2429	 in 10.0524  sec
+DEBUG:root:Loss of last 10 epochs: 0.2465	 in 10.4333  sec
+DEBUG:root:Loss of last 10 epochs: 0.2427	 in 10.1126  sec
+DEBUG:root:Loss of last 10 epochs: 0.2471	 in 9.7227  sec
+DEBUG:root:Loss of last 10 epochs: 0.2388	 in 10.3126  sec
+DEBUG:root:Loss of last 10 epochs: 0.2342	 in 10.2805  sec
+DEBUG:root:Loss of last 10 epochs: 0.2452	 in 9.9117  sec
+DEBUG:root:Loss of last 10 epochs: 0.2337	 in 10.1630  sec
+DEBUG:root:Loss of last 10 epochs: 0.2221	 in 10.1557  sec
+DEBUG:root:Loss of last 10 epochs: 0.2315	 in 10.0192  sec
+DEBUG:root:Loss of last 10 epochs: 0.2206	 in 10.0508  sec
+DEBUG:root:Loss of last 10 epochs: 0.2183	 in 10.2011  sec
+DEBUG:root:Loss of last 10 epochs: 0.2247	 in 10.6374  sec
+DEBUG:root:Loss of last 10 epochs: 0.2318	 in 10.2617  sec
+DEBUG:root:Loss of last 10 epochs: 0.2371	 in 10.0667  sec
+DEBUG:root:Loss of last 10 epochs: 0.2351	 in 10.2743  sec
+DEBUG:root:Loss of last 10 epochs: 0.2304	 in 10.1472  sec
+DEBUG:root:Loss of last 10 epochs: 0.2293	 in 10.7336  sec
+DEBUG:root:Loss of last 10 epochs: 0.2440	 in 10.5433  sec
+DEBUG:root:Loss of last 10 epochs: 0.2536	 in 10.1919  sec
+DEBUG:root:Loss of last 10 epochs: 0.2444	 in 10.0692  sec
+DEBUG:root:Loss of last 10 epochs: 0.2435	 in 9.9991  sec
+DEBUG:root:Loss of last 10 epochs: 0.2344	 in 10.1547  sec
+DEBUG:root:Loss of last 10 epochs: 0.2324	 in 10.0317  sec
+DEBUG:root:Loss of last 10 epochs: 0.2265	 in 9.9817  sec
+DEBUG:root:Loss of last 10 epochs: 0.2421	 in 10.1598  sec
+DEBUG:root:Loss of last 10 epochs: 0.2544	 in 10.3801  sec
+DEBUG:root:Loss of last 10 epochs: 0.2493	 in 10.1003  sec
+DEBUG:root:Loss of last 10 epochs: 0.2301	 in 10.0888  sec
+DEBUG:root:Loss of last 10 epochs: 0.2205	 in 10.2725  sec
+DEBUG:root:Loss of last 10 epochs: 0.2200	 in 10.1880  sec
+DEBUG:root:Loss of last 10 epochs: 0.2307	 in 10.0805  sec
+DEBUG:root:Loss of last 10 epochs: 0.2404	 in 9.9877  sec
+DEBUG:root:Loss of last 10 epochs: 0.2308	 in 10.1114  sec
+INFO:root:Valid-Epoch 5499
+INFO:root:MMR: 0.5221951388454897
+INFO:root:Rank: 188.44342672413794, Rank tail: 95.8415948275862, Rank head: 281.04525862068965
+INFO:root:Hit1: 0.47521551724137934, Hit1 tail: 0.552801724137931, Hit1 head: 0.39762931034482757
+INFO:root:Hit3: 0.5404094827586207, Hit3 tail: 0.5991379310344828, Hit3 head: 0.4816810344827586
+INFO:root:Hit10: 0.6126077586206897, Hit10 tail: 0.6476293103448276, Hit10 head: 0.5775862068965517
+DEBUG:root:Loss of last 10 epochs: 0.2140	 in 19.9385  sec
+DEBUG:root:Loss of last 10 epochs: 0.2095	 in 10.3514  sec
+DEBUG:root:Loss of last 10 epochs: 0.2147	 in 10.5745  sec
+DEBUG:root:Loss of last 10 epochs: 0.2456	 in 10.7528  sec
+DEBUG:root:Loss of last 10 epochs: 0.2410	 in 10.3484  sec
+DEBUG:root:Loss of last 10 epochs: 0.2371	 in 10.7687  sec
+DEBUG:root:Loss of last 10 epochs: 0.2209	 in 10.7248  sec
+DEBUG:root:Loss of last 10 epochs: 0.2194	 in 10.4410  sec
+DEBUG:root:Loss of last 10 epochs: 0.2233	 in 9.9022  sec
+DEBUG:root:Loss of last 10 epochs: 0.2223	 in 10.3781  sec
+DEBUG:root:Loss of last 10 epochs: 0.2115	 in 10.1311  sec
+DEBUG:root:Loss of last 10 epochs: 0.2061	 in 10.2029  sec
+DEBUG:root:Loss of last 10 epochs: 0.2072	 in 10.2462  sec
+DEBUG:root:Loss of last 10 epochs: 0.2054	 in 10.1885  sec
+DEBUG:root:Loss of last 10 epochs: 0.2164	 in 10.4891  sec
+DEBUG:root:Loss of last 10 epochs: 0.2148	 in 10.2421  sec
+DEBUG:root:Loss of last 10 epochs: 0.2189	 in 10.7201  sec
+DEBUG:root:Loss of last 10 epochs: 0.2120	 in 10.2450  sec
+DEBUG:root:Loss of last 10 epochs: 0.2255	 in 10.0942  sec
+DEBUG:root:Loss of last 10 epochs: 0.2723	 in 10.4196  sec
+DEBUG:root:Loss of last 10 epochs: 0.2424	 in 9.9768  sec
+DEBUG:root:Loss of last 10 epochs: 0.2437	 in 10.3347  sec
+DEBUG:root:Loss of last 10 epochs: 0.2182	 in 10.0608  sec
+DEBUG:root:Loss of last 10 epochs: 0.2208	 in 10.2670  sec
+DEBUG:root:Loss of last 10 epochs: 0.2232	 in 10.2104  sec
+DEBUG:root:Loss of last 10 epochs: 0.2362	 in 10.6176  sec
+DEBUG:root:Loss of last 10 epochs: 0.2402	 in 10.0922  sec
+DEBUG:root:Loss of last 10 epochs: 0.2368	 in 10.0960  sec
+DEBUG:root:Loss of last 10 epochs: 0.2258	 in 10.0745  sec
+DEBUG:root:Loss of last 10 epochs: 0.2192	 in 10.0867  sec
+DEBUG:root:Loss of last 10 epochs: 0.2174	 in 10.5528  sec
+DEBUG:root:Loss of last 10 epochs: 0.2334	 in 10.1833  sec
+DEBUG:root:Loss of last 10 epochs: 0.2218	 in 10.2990  sec
+DEBUG:root:Loss of last 10 epochs: 0.2181	 in 10.0216  sec
+DEBUG:root:Loss of last 10 epochs: 0.2192	 in 9.9718  sec
+DEBUG:root:Loss of last 10 epochs: 0.2071	 in 9.9645  sec
+DEBUG:root:Loss of last 10 epochs: 0.2169	 in 10.1023  sec
+DEBUG:root:Loss of last 10 epochs: 0.2119	 in 10.0913  sec
+DEBUG:root:Loss of last 10 epochs: 0.2015	 in 10.0965  sec
+DEBUG:root:Loss of last 10 epochs: 0.2103	 in 10.5250  sec
+DEBUG:root:Loss of last 10 epochs: 0.2053	 in 10.2463  sec
+DEBUG:root:Loss of last 10 epochs: 0.2083	 in 9.9558  sec
+DEBUG:root:Loss of last 10 epochs: 0.2091	 in 10.0056  sec
+DEBUG:root:Loss of last 10 epochs: 0.2233	 in 10.0597  sec
+DEBUG:root:Loss of last 10 epochs: 0.2129	 in 10.1586  sec
+DEBUG:root:Loss of last 10 epochs: 0.2105	 in 10.0883  sec
+DEBUG:root:Loss of last 10 epochs: 0.2303	 in 10.5587  sec
+DEBUG:root:Loss of last 10 epochs: 0.2188	 in 10.8107  sec
+DEBUG:root:Loss of last 10 epochs: 0.2232	 in 10.0329  sec
+DEBUG:root:Loss of last 10 epochs: 0.2126	 in 10.2471  sec
+INFO:root:Valid-Epoch 5999
+INFO:root:MMR: 0.48773533746758596
+INFO:root:Rank: 141.6918103448276, Rank tail: 77.4709051724138, Rank head: 205.91271551724137
+INFO:root:Hit1: 0.42025862068965514, Hit1 tail: 0.5614224137931034, Hit1 head: 0.2790948275862069
+INFO:root:Hit3: 0.5296336206896551, Hit3 tail: 0.603448275862069, Hit3 head: 0.4558189655172414
+INFO:root:Hit10: 0.6212284482758621, Hit10 tail: 0.6325431034482759, Hit10 head: 0.6099137931034483
+INFO:root:TEST: (On best model which was at epoch 2499
+INFO:root:MMR: 0.5150734925520732
+INFO:root:Rank: 259.91433189655174, Rank tail: 196.64978448275863, Rank head: 323.1788793103448
+INFO:root:Hit1: 0.4735991379310345, Hit1 tail: 0.5506465517241379, Hit1 head: 0.39655172413793105
+INFO:root:Hit3: 0.5296336206896552, Hit3 tail: 0.6012931034482759, Hit3 head: 0.4579741379310345
+INFO:root:Hit10: 0.5980603448275862, Hit10 tail: 0.6174568965517241, Hit10 head: 0.5786637931034483

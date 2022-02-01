@@ -1,0 +1,12 @@
+True Value: High School
+
+Person 93		has_highest_degree		Bachelor - ID:9.0	-	Score:0.42
+Person 93		has_highest_degree		Master - ID:4.0	-	Score:0.40
+Person 93		has_highest_degree		High School - ID:17.0	-	Score:0.39
+Person 93		has_highest_degree		PhD - ID:36.0	-	Score:0.37
+Person 93		has_highest_degree		Life Sciences - ID:3.0	-	Score:-0.47
+Person 93		has_highest_degree		Business & Economics - ID:21.0	-	Score:-0.49
+Person 93		has_highest_degree		Mechanical Engineering - ID:13.0	-	Score:-0.50
+Person 93		has_highest_degree		Computer Science - ID:8.0	-	Score:-0.53
+Person 93		has_highest_degree		Person 2192 - ID:2227.0	-	Score:-0.66
+Person 93		has_highest_degree		Person 2457 - ID:2492.0	-	Score:-1.08

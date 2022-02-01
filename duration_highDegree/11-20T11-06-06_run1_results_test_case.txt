@@ -1,0 +1,12 @@
+True Value: High School
+
+Person 93		has_highest_degree		High School - ID:17.0	-	Score:4.15
+Person 93		has_highest_degree		Person 584 - ID:619.0	-	Score:1.07
+Person 93		has_highest_degree		Person 74 - ID:109.0	-	Score:-0.96
+Person 93		has_highest_degree		Person 1013 - ID:1048.0	-	Score:-1.89
+Person 93		has_highest_degree		Person 2331 - ID:2366.0	-	Score:-2.01
+Person 93		has_highest_degree		Person 2457 - ID:2492.0	-	Score:-2.49
+Person 93		has_highest_degree		Person 844 - ID:879.0	-	Score:-2.62
+Person 93		has_highest_degree		Person 2311 - ID:2346.0	-	Score:-2.93
+Person 93		has_highest_degree		Person 1242 - ID:1277.0	-	Score:-3.41
+Person 93		has_highest_degree		Person 1834 - ID:1869.0	-	Score:-3.98

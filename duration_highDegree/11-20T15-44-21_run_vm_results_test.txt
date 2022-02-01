@@ -1,0 +1,43 @@
+Overall:
+
+MMR: 0.1380652238032744, MMR tail: 0.2627184535244724, MMR head: 0.01341199408207643
+Rank: 778.9095, Rank tail: 835.969, Rank head: 721.85
+Hit1: 0.0665, Hit1 tail: 0.129, Hit1 head: 0.004
+Hit3: 0.1855, Hit3 tail: 0.365, Hit3 head: 0.006
+Hit5: 0.2515, Hit5 tail: 0.492, Hi5 head: 0.011
+Hit10: 0.257, Hit10 tail: 0.5, Hit10 head: 0.014
+
+
+Per Relation:
+
+Metrics for Relation: has_student - ID:0 - Count: 500
+MMR: 0.020866395382869378, MMR tail: 0.005546107929060697, MMR head: 0.03618668283667806
+Rank: 1079.132, Rank tail: 1653.1, Rank head: 505.164
+Hit1: 0.01, Hit1 tail: 0.004, Hit1 head: 0.016
+Hit3: 0.014, Hit3 tail: 0.004, Hit3 head: 0.024
+Hit5: 0.018, Hit5 tail: 0.004, Hi5 head: 0.032
+Hit10: 0.02, Hit10 tail: 0.004, Hit10 head: 0.036
+
+Metrics for Relation: inhabitant - ID:1 - Count: 500
+MMR: 0.006377254764106218, MMR tail: 0.004630339646461125, MMR head: 0.00812416988175131
+Rank: 1143.884, Rank tail: 1685.192, Rank head: 602.576
+Hit1: 0.0, Hit1 tail: 0.0, Hit1 head: 0.0
+Hit3: 0.004, Hit3 tail: 0.008, Hit3 head: 0.0
+Hit5: 0.006, Hit5 tail: 0.008, Hi5 head: 0.004
+Hit10: 0.006, Hit10 tail: 0.008, Hit10 head: 0.004
+
+Metrics for Relation: studies - ID:2 - Count: 500
+MMR: 0.2568474530089232, MMR tail: 0.5068194444444442, MMR head: 0.006875461573402199
+Rank: 442.144, Rank tail: 3.032, Rank head: 881.256
+Hit1: 0.12, Hit1 tail: 0.24, Hit1 head: 0.0
+Hit3: 0.354, Hit3 tail: 0.708, Hit3 head: 0.0
+Hit5: 0.494, Hit5 tail: 0.98, Hi5 head: 0.008
+Hit10: 0.504, Hit10 tail: 0.992, Hit10 head: 0.016
+
+Metrics for Relation: has_highest_degree - ID:3 - Count: 500
+MMR: 0.268169792057198, MMR tail: 0.5338779220779218, MMR head: 0.002461662036474143
+Rank: 450.478, Rank tail: 2.552, Rank head: 898.404
+Hit1: 0.136, Hit1 tail: 0.272, Hit1 head: 0.0
+Hit3: 0.37, Hit3 tail: 0.74, Hit3 head: 0.0
+Hit5: 0.488, Hit5 tail: 0.976, Hi5 head: 0.0
+Hit10: 0.498, Hit10 tail: 0.996, Hit10 head: 0.0

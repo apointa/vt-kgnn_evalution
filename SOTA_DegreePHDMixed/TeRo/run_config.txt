@@ -1,0 +1,5 @@
+dim = 300
+lr=0.1
+neg_num=10
+gamma=3
+cmin=0.005

@@ -1,0 +1,44 @@
+Overall
+MMR: 0.33896793364255173, MMR tail: 0.44775801336287907, MMR head: 0.23017785392222062
+Rank: 319.842, Rank tail: 281.642, Rank head: 358.042
+Hit1: 0.2655, Hit1 tail: 0.326, Hit1 head: 0.205
+Hit3: 0.3765, Hit3 tail: 0.527, Hit3 head: 0.226
+Hit5: 0.422, Hit5 tail: 0.611, Hi5 head: 0.233
+Hit10: 0.497, Hit10 tail: 0.743, Hit10 head: 0.251
+
+
+Per Relation:
+Metrics for Relation: live_in - ID:0 - Count: 500
+MMR: 0.1619016642655204, MMR tail: 0.32160476190476234, MMR head: 0.002198566626278482
+Rank: 558.062, Rank tail: 4.952, Rank head: 1111.172
+Hit1: 0.062, Hit1 tail: 0.124, Hit1 head: 0.0
+Hit3: 0.166, Hit3 tail: 0.332, Hit3 head: 0.0
+Hit5: 0.282, Hit5 tail: 0.564, Hi5 head: 0.0
+Hit10: 0.5, Hit10 tail: 1.0, Hit10 head: 0.0
+
+
+Metrics for Relation: studies - ID:1 - Count: 500
+MMR: 0.8354295344952063, MMR tail: 0.8896000000000002, MMR head: 0.7812590689904126
+Rank: 22.88, Rank tail: 1.332, Rank head: 44.428
+Hit1: 0.798, Hit1 tail: 0.82, Hit1 head: 0.776
+Hit3: 0.866, Hit3 tail: 0.952, Hit3 head: 0.78
+Hit5: 0.89, Hit5 tail: 1.0, Hi5 head: 0.78
+Hit10: 0.894, Hit10 tail: 1.0, Hit10 head: 0.788
+
+
+Metrics for Relation: phd - ID:2 - Count: 500
+MMR: 0.06062030419424708, MMR tail: 0.003590883510351632, MMR head: 0.11764972487814256
+Rank: 583.73, Rank tail: 1117.296, Rank head: 50.164
+Hit1: 0.02, Hit1 tail: 0.0, Hit1 head: 0.04
+Hit3: 0.056, Hit3 tail: 0.0, Hit3 head: 0.112
+Hit5: 0.07, Hit5 tail: 0.004, Hi5 head: 0.136
+Hit10: 0.098, Hit10 tail: 0.004, Hit10 head: 0.192
+
+
+Metrics for Relation: research_in - ID:3 - Count: 500
+MMR: 0.2979202316152285, MMR tail: 0.5762364080364075, MMR head: 0.019604055194049667
+Rank: 114.696, Rank tail: 2.988, Rank head: 226.404
+Hit1: 0.182, Hit1 tail: 0.36, Hit1 head: 0.004
+Hit3: 0.418, Hit3 tail: 0.824, Hit3 head: 0.012
+Hit5: 0.446, Hit5 tail: 0.876, Hi5 head: 0.016
+Hit10: 0.496, Hit10 tail: 0.968, Hit10 head: 0.024

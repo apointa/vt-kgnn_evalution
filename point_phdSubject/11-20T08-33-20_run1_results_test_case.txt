@@ -1,0 +1,11 @@
+True Value: Macroeconomics
+
+Person 49		research_in		Macroeconomics - ID:22.0	-	Score:5.28
+Person 49		research_in		Business & Economics - ID:14.0	-	Score:-3.30
+Person 49		research_in		Person 2110 - ID:2135.0	-	Score:-4.81
+Person 49		research_in		Person 2146 - ID:2171.0	-	Score:-5.32
+Person 49		research_in		Person 1653 - ID:1678.0	-	Score:-5.37
+Person 49		research_in		Person 1342 - ID:1367.0	-	Score:-5.39
+Person 49		research_in		Person 588 - ID:613.0	-	Score:-5.49
+Person 49		research_in		Person 830 - ID:855.0	-	Score:-5.69
+Person 49		research_in		Material Science - ID:11.0	-	Score:-5.75

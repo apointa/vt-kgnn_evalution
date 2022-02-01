@@ -1,0 +1,48 @@
+MMR: 0.7101526088423454, MMR tail: 0.7532133610691372, MMR head: 0.6670918566155413
+Rank: 102.40375, Rank tail: 162.978, Rank head: 41.8295
+Hit1: 0.66275, Hit1 tail: 0.69, Hit1 head: 0.6355
+Hit3: 0.7425, Hit3 tail: 0.8075, Hit3 head: 0.6775
+Hit5: 0.76625, Hit5 tail: 0.8505, Hi5 head: 0.682
+Hit10: 0.783, Hit10 tail: 0.8645, Hit10 head: 0.7015
+
+
+
+Metrics for Relation: studies - ID:0 - Count: 500
+MMR: 0.9407857142857142, MMR tail: 0.9495714285714286, MMR head: 0.932
+Rank: 1.14, Rank tail: 1.144, Rank head: 1.136
+Hit1: 0.888, Hit1 tail: 0.912, Hit1 head: 0.864
+Hit3: 0.992, Hit3 tail: 0.984, Hit3 head: 1.0
+Hit5: 0.998, Hit5 tail: 0.996, Hi5 head: 1.0
+Hit10: 1.0, Hit10 tail: 1.0, Hit10 head: 1.0
+
+Metrics for Relation: participant - ID:1 - Count: 2000
+MMR: 0.9726811087375186, MMR tail: 0.9597907889036096, MMR head: 0.9855714285714288
+Rank: 3.1055, Rank tail: 5.14, Rank head: 1.071
+Hit1: 0.957, Hit1 tail: 0.938, Hit1 head: 0.976
+Hit3: 0.988, Hit3 tail: 0.981, Hit3 head: 0.995
+Hit5: 0.992, Hit5 tail: 0.988, Hi5 head: 0.996
+Hit10: 0.993, Hit10 tail: 0.99, Hit10 head: 0.996
+
+Metrics for Relation: employeed_at - ID:2 - Count: 502
+MMR: 0.5494699643628941, MMR tail: 0.7133900904319233, MMR head: 0.3855498382938642
+Rank: 41.322709163346616, Rank tail: 3.0159362549800797, Rank head: 79.62948207171314
+Hit1: 0.45617529880478086, Hit1 tail: 0.601593625498008, Hit1 head: 0.3107569721115538
+Hit3: 0.6175298804780877, Hit3 tail: 0.8047808764940239, Hit3 head: 0.4302788844621514
+Hit5: 0.6593625498007968, Hit5 tail: 0.8565737051792829, Hi5 head: 0.46215139442231074
+Hit10: 0.7191235059760956, Hit10 tail: 0.9561752988047809, Hit10 head: 0.4820717131474104
+
+Metrics for Relation: has_employeee - ID:3 - Count: 498
+MMR: 0.030356851848126535, MMR tail: 0.0009323831060387345, MMR head: 0.05978132059021433
+Rank: 651.0020080321285, Rank tail: 1281.6546184738957, Rank head: 20.349397590361445
+Hit1: 0.0, Hit1 tail: 0.0, Hit1 head: 0.0
+Hit3: 0.0, Hit3 tail: 0.0, Hit3 head: 0.0
+Hit5: 0.0, Hit5 tail: 0.0, Hi5 head: 0.0
+Hit10: 0.06626506024096386, Hit10 tail: 0.0, Hit10 head: 0.13253012048192772
+
+Metrics for Relation: is_tutor - ID:4 - Count: 500
+MMR: 0.2678074528418791, MMR tail: 0.5197999999999995, MMR head: 0.015814905683758533
+Rank: 115.782, Rank tail: 2.564, Rank head: 229.0
+Hit1: 0.128, Hit1 tail: 0.252, Hit1 head: 0.004
+Hit3: 0.376, Hit3 tail: 0.744, Hit3 head: 0.008
+Hit5: 0.502, Hit5 tail: 0.996, Hi5 head: 0.008
+Hit10: 0.504, Hit10 tail: 0.996, Hit10 head: 0.012

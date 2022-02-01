@@ -1,0 +1,11 @@
+True Value: Macroeconomics
+
+Person 49		research_in		Entrepreneurship - ID:15.0	-	Score:2.70
+Person 49		research_in		Marketing - ID:48.0	-	Score:2.49
+Person 49		research_in		Macroeconomics - ID:22.0	-	Score:2.47
+Person 49		research_in		Business & Economics - ID:14.0	-	Score:-0.23
+Person 49		research_in		Person 386 - ID:411.0	-	Score:-3.77
+Person 49		research_in		Person 2213 - ID:2238.0	-	Score:-3.92
+Person 49		research_in		Person 1211 - ID:1236.0	-	Score:-4.20
+Person 49		research_in		Person 412 - ID:437.0	-	Score:-4.28
+Person 49		research_in		Person 1586 - ID:1611.0	-	Score:-4.31

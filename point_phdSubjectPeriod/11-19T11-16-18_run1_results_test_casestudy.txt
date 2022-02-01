@@ -1,0 +1,9 @@
+True Value: Machine Learning
+
+Person 22		research_in		Machine Learning - ID:7.0	-	Score:4.67
+Person 22		research_in		Computer Science - ID:6.0	-	Score:0.80
+Person 22		research_in		Genetics - ID:3.0	-	Score:-3.60
+Person 22		research_in		Paris - ID:45.0	-	Score:-4.13
+Person 22		research_in		Munich - ID:17.0	-	Score:-5.42
+Person 22		research_in		Berlin - ID:30.0	-	Score:-6.13
+Person 22		research_in		Life Sciences - ID:2.0	-	Score:-6.42
